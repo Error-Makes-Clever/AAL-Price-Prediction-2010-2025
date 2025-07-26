@@ -25,7 +25,6 @@ Performance metrics like **RMSE**, **MAPE**, **SMAPE**, and **MSLE** were used f
 ├── Time Series Forecasting of AAL Stock Prices Using ARIMA and Deep Learning Models (2010–2025)            # Jupyter notebooks for modeling and evaluation
 ├── requirements.txt                                                                                        # Python dependencies
 ├── README.md                                                                                               # Project overview
-
 ````
 
 ---
