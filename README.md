@@ -21,9 +21,10 @@ Performance metrics like **RMSE**, **MAPE**, **SMAPE**, and **MSLE** were used f
 
 ```
 
-📁 aal-stock-forecast-arima-lstm
-├── 📈 notebooks/             # Jupyter notebooks for modeling and evaluation
-├── README.md                # Project overview
+📁 AAL-Price-Prediction-2010-2025
+├── Time Series Forecasting of AAL Stock Prices Using ARIMA and Deep Learning Models (2010–2025)            # Jupyter notebooks for modeling and evaluation
+├── requirements.txt                                                                                        # Python dependencies
+├── README.md                                                                                               # Project overview
 
 ````
 
@@ -76,8 +77,8 @@ Performance metrics like **RMSE**, **MAPE**, **SMAPE**, and **MSLE** were used f
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/aal-stock-forecast-arima-lstm.git
-cd aal-stock-forecast-arima-lstm
+git clone https://github.com/Error-Makes-Clever/AAL-Price-Prediction-2010-2025.git
+cd AAL-Price-Prediction-2010-2025
 ````
 
 ### 2. Install dependencies
