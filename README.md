@@ -99,4 +99,4 @@ jupyter notebook
 > Among deep learning models, **RNN** showed stronger performance than LSTM and GRU, indicating that simpler architectures can still be effective on relatively linear, univariate data.
 > Deep learning models may yield better results in the future if trained with additional external features like trading volume, news sentiment, or economic indicators.
 
-Let me know if you'd like to include model architecture diagrams or links to results visualizations.
+
